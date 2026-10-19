@@ -5,14 +5,6 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3FB950&center=true&vCenter=true&width=600&lines=Building+MERN+stack+applications;Multi-vendor+E-commerce+%7C+AI+Tools;Learning+something+new+every+day" alt="typing" />
 </a>
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=mhd-coder-10&label=Profile%20Views&color=1f6feb&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/mhd-coder-10?style=for-the-badge&logo=github&color=3fb950)
-
-[![Followers](https://img.shields.io/github/followers/mhd-coder-10?style=for-the-badge&logo=github&color=3fb950)](https://github.com/mhd-coder-10?tab=followers)
-[![Profile Views](https://komarev.com/ghpvc/?username=mhd-coder-10&label=Profile%20Views&color=1f6feb&style=for-the-badge)](https://github.com/mhd-coder-10)
 </div>
 
 ---
