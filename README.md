@@ -11,6 +11,8 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=mhd-coder-10&label=Profile%20Views&color=1f6feb&style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/mhd-coder-10?style=for-the-badge&logo=github&color=3fb950)
 
+[![Followers](https://img.shields.io/github/followers/mhd-coder-10?style=for-the-badge&logo=github&color=3fb950)](https://github.com/mhd-coder-10?tab=followers)
+[![Profile Views](https://komarev.com/ghpvc/?username=mhd-coder-10&label=Profile%20Views&color=1f6feb&style=for-the-badge)](https://github.com/mhd-coder-10)
 </div>
 
 ---
