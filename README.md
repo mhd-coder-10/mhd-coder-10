@@ -16,7 +16,7 @@
 - 🤖 Built an **AI tool** that generates interview reports and resumes from a resume, self description and job description
 - 🎥 Working on **IntellMeet**, a TypeScript project
 - 🌱 Currently improving my skills in backend architecture and AI integrations
-- 📫 Reach me: **YOUR_EMAIL@example.com**
+- 📫 Reach me: **mhd.developer10@gmail.com**
 
 ---
 
